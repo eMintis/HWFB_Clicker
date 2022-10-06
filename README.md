@@ -5,6 +5,9 @@ In any way i woun't take any responsibility for what/how/were you use this "prog
 * Purpose of this "program" make Clicks and save time.
 * Writen in Python 3.10
 
+#How to use
+- quick user manual;
+
 # HWFB_Clicker v001
 
 - First version of Clicker
