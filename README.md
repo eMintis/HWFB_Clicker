@@ -6,10 +6,10 @@ In any way i woun't take any responsibility for what/how/were you use this "prog
 * Writen in Python 3.10
 
 # How to use
-Run script with Python or Compiled Program;
-Maximize game screen (make it Full screen, bottom right button);
-ATL+TAB Clicker; Or use it on Dual screen;
-Enter number and press Enter.
+* Run script with Python or Compiled Program;
+* Maximize game screen (make it Full screen, bottom right button);
+* ATL+TAB Clicker; Or use it on Dual screen;
+ *Enter number and press Enter.
 
 # Working resolutions:
 
