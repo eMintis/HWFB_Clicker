@@ -5,7 +5,7 @@ In any way i woun't take any responsibility for what/how/were you use this "prog
 * Purpose of this "program" make Clicks and save time.
 * Writen in Python 3.10
 
-#How to use
+# How to use
 Run script with Python or Compiled Program;
 Maximize game screen (make it Full screen, bottom right button);
 ATL+TAB Clicker; Or use it on Dual screen;
