@@ -6,8 +6,19 @@ In any way i woun't take any responsibility for what/how/were you use this "prog
 * Writen in Python 3.10
 
 #How to use
-- quick user manual;
+Run script with Python or Compiled Program;
+Maximize game screen (make it Full screen, bottom right button);
+ATL+TAB Clicker; Or use it on Dual screen;
+Enter number and press Enter.
+
+# Working resolutions:
+
+- 2560x1440
 
 # HWFB_Clicker v001
 
-- First version of Clicker
+- "v001" version of Clicker:
+1# is done - AutoClicker:
+ 1. Enter how many clicks 
+ 2. Point mouse were to click and press Enter
+ 3. Were is delay 2 seconds and you can move your mouse.
